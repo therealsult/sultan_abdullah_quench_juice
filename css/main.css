@@ -10,7 +10,7 @@
     margin: 20px auto;
     border: solid 1px black;
     border-radius: 10px;
-    background-color: #efefef;
+    background-color: #ffbb0052;
 }
 
 #main-content{
@@ -27,14 +27,14 @@ article {
 
 
 body {
-    font-family: 'Catamaran' arial, sans-serif;
+    font-family: 'Sofia Sans', arial, sans-serif;
     font-size: 20px;
     color: #131313;
     font-weight: 100;
 }
 
 p{
-    line-height: 30px;
+    line-height: 42px;
     color: #363636;
 
 }
@@ -42,7 +42,7 @@ p{
 h2 {
     font-family: 'Lato', Arial, sans-serif;
     font-size: 56px;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
     background-color: rgb(75, 75, 75);
     border-radius: 5%;
     color: white;
@@ -70,5 +70,6 @@ h3 {
 
 #image {
     cursor: pointer;
+    margin: 30px 0 60px 0 ;
     
 }
